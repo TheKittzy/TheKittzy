@@ -6,8 +6,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,75:9D4EDD,100:E0AAFF&height=200&section=header&text=The%20Kittzy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Red%20Team%20Enthusiast&descSize=17&descAlignY=56"
-    alt="The Kittzy— Software Engineer and Cybersecurity"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,75:9D4EDD,100:E0AAFF&height=200&section=header&text=Gabriela%20Oliveira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Red%20Team%20Enthusiast&descSize=17&descAlignY=56"
+    alt="Gabriela Oliveira — Software Engineer and Cybersecurity"
   />
 </p>
 
@@ -21,25 +21,89 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Oliveira-6C4AB6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-oliveira-05-19b6-17b/)
-[![GitHub](https://img.shields.io/badge/GitHub-TheKittzy-171A21?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKittzy)
+[![GitHub](https://img.shields.io/badge/GitHub-MsGabriela-171A21?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsGabriela)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela.max.oliveira@gmail.com)
 
 </div>
 
 ---
 
-## `whoami` 🌙
+<h2 align="center"><code>whoami</code> 🌙</h2>
 
 ```bash
-Kittzy@cyber-lab:~$ cat profile.txt
+gabi@cyber-lab:~$ whoami
+gabriela
 
-role        = "Software Engineer"
-mission     = "Build secure systems and understand how they fail"
-focus       = ["Application Security", "Web Pentest", "Network Pentest"]
-interests   = ["API Security", "Secure Coding", "DevSecOps", "Red Team"]
-education   = "Postgraduate Degree in Offensive Security — Red Team at FIAP"
-status      = "Learning • Building • Testing • Documenting"
-ethics      = "Authorized environments only"
+gabi@cyber-lab:~$ id
+uid=1337(gabriela) gid=2026(cybersecurity)
+groups=software-engineering,appsec,web-pentest,network-pentest,red-team
+
+gabi@cyber-lab:~$ hostname
+purple-cyber-lab
+
+gabi@cyber-lab:~$ uname -srm
+Linux 6.x x86_64
+
+gabi@cyber-lab:~$ echo $SHELL
+/bin/bash
+
+gabi@cyber-lab:~$ pwd
+/home/gabriela/cybersecurity-journey
+```
+
+<h3 align="center"><code>cat ~/.config/gabi/profile.json | jq</code></h3>
+
+```json
+{
+  "role": "Software Engineer",
+  "mission": "Build secure systems and understand how they fail",
+  "focus": [
+    "Application Security",
+    "Web Application Pentesting",
+    "Network Pentesting"
+  ],
+  "interests": [
+    "API Security",
+    "Secure Coding",
+    "DevSecOps",
+    "Red Team"
+  ],
+  "education": "Postgraduate Degree in Offensive Security — Red Team at FIAP",
+  "status": "Learning • Building • Testing • Documenting",
+  "ethics": "Authorized environments only"
+}
+```
+
+<h3 align="center"><code>systemctl status curiosity.service</code></h3>
+
+```text
+● curiosity.service — Continuous Learning Engine
+     Loaded: loaded (/etc/systemd/system/curiosity.service; enabled)
+     Active: active (running)
+       Mode: ethical-hacking
+      Tasks: study, build, test, document, remediate
+     Status: "Learning something new and probably taking notes..."
+```
+
+<h3 align="center"><code>nmap -sV gabriela.local</code></h3>
+
+```text
+PORT      STATE  SERVICE              VERSION
+443/tcp   open   application-security OWASP Top 10
+5001/tcp  open   dotnet-api           ASP.NET Core
+8080/tcp  open   web-pentest          Burp Suite Community
+9001/tcp  open   network-analysis     Nmap + Wireshark
+1337/tcp  open   red-team-lab         Ethical mode enabled
+```
+
+<h3 align="center"><code>git log --oneline --decorate -5</code></h3>
+
+```text
+a11ce01 (HEAD -> main) docs: document lessons learned
+5ecur17 fix: remediate insecure access control
+c0ffee1 test: add security checks to the pipeline
+b16b00b feat: build a new AppSec laboratory
+0ddba11 init: begin cybersecurity journey
 ```
 
 I am a **Software Engineer** with professional experience in backend development, REST APIs, microservices, distributed applications, automated testing, systems integration, CI/CD, troubleshooting, and production support.
@@ -49,9 +113,10 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 > **I like understanding how systems are built, how they break, and how to make them safer.**  
 > `code with care • test with permission • report with responsibility`
 
+
 ---
 
-## ✦ Security focus
+<h2 align="center">✦ Security focus</h2>
 
 <table>
 <tr>
@@ -88,11 +153,11 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 ---
 
-## ✦ Cyber toolkit
+<h2 align="center">✦ Cyber toolkit</h2>
 
 <div align="center">
 
-### Web, AppSec & Offensive Security
+<h3 align="center">Web, AppSec & Offensive Security</h3>
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
@@ -109,7 +174,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Security concepts
+<h3 align="center">Security concepts</h3>
 
 ![Application Security](https://img.shields.io/badge/Application%20Security-6F2DBD?style=flat-square)
 ![API Security](https://img.shields.io/badge/API%20Security-9D4EDD?style=flat-square)
@@ -120,7 +185,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-240046?style=flat-square)
 ![CVE CWE CVSS](https://img.shields.io/badge/CVE%20%7C%20CWE%20%7C%20CVSS-212529?style=flat-square)
 
-### Networks & protocols
+<h3 align="center">Networks & protocols</h3>
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3C096C?style=flat-square)
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%20%7C%20HTTPS-5A189A?style=flat-square)
@@ -134,7 +199,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 ---
 
-## ✦ Software engineering arsenal
+<h2 align="center">✦ Software engineering arsenal</h2>
 
 <div align="center">
 
@@ -165,7 +230,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 ---
 
-## ✦ Featured missions
+<h2 align="center">✦ Featured missions</h2>
 
 | Mission | Security focus | Status |
 |---|---|:---:|
@@ -182,7 +247,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 ---
 
-## ✦ Current quest log
+<h2 align="center">✦ Current quest log</h2>
 
 - [x] Build a professional bridge between Software Engineering and Cybersecurity
 - [x] Practice Web and Network Pentesting in controlled laboratories
@@ -195,7 +260,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 ---
 
-## ✦ A little bit of personality
+<h2 align="center">✦ A little bit of personality</h2>
 
 <div align="center">
 
@@ -209,7 +274,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 ---
 
-## ⚖️ Ethical notice
+<h2 align="center">⚖️ Ethical notice</h2>
 
 > All security-related content in this profile is intended exclusively for educational purposes, CTFs, laboratories, and authorized environments.  
 > I do not support or encourage unauthorized access, misuse of tools, or harm to third parties.
