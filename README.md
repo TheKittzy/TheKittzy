@@ -21,7 +21,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Oliveira-6C4AB6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-oliveira-05-19b6-17b/)
-[![GitHub](https://img.shields.io/badge/GitHub-MsGabriela-171A21?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsGabriela)
+[![GitHub](https://img.shields.io/badge/GitHub-MsGabriela-171A21?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKittzy)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela.max.oliveira@gmail.com)
 
 </div>
@@ -31,7 +31,7 @@
 ## `whoami` 🌙
 
 ```bash
-gabriela@cyber-lab:~$ cat profile.txt
+Kittzy@cyber-lab:~$ cat profile.txt
 
 role        = "Software Engineer"
 mission     = "Build secure systems and understand how they fail"
