@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Gabriela Oliveira 👩🏻‍💻🛡️
+# Hi, I'm Gabriela Oliveira 👩🏻‍💻🎯
 
-### Software Engineer expanding into Cybersecurity
+### Software Engineer expanding Interested in Red Team and Offensive Security 🎯
 
 **Application Security • Web & Network Penetration Testing • Secure Coding • .NET**
 
