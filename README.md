@@ -118,11 +118,11 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 <h2 align="center">✦ Security focus</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Application Security
+<h3 align="center">🛡️ Application Security</h3>
 
 - OWASP Top 10
 - API Security
@@ -136,7 +136,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 </td>
 <td width="50%" valign="top">
 
-### 🔴 Offensive Security
+<h3 align="center">🔴 Offensive Security</h3>
 
 - Web Application Pentesting
 - Network Pentesting
@@ -281,7 +281,7 @@ I am currently expanding my career into **Cybersecurity**, combining my software
 
 <div align="center">
 
-### `Ethics first. Curiosity always.` 🛡️
+<h3 align="center"><code>Ethics first. Curiosity always.</code> 🛡️</h3>
 
 <img
   width="100%"
