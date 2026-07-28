@@ -6,8 +6,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,75:9D4EDD,100:E0AAFF&height=200&section=header&text=Gabriela%20Oliveira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Red%20Team%20Enthusiast&descSize=17&descAlignY=56"
-    alt="Gabriela Oliveira — Software Engineer and Cybersecurity"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,75:9D4EDD,100:E0AAFF&height=200&section=header&text=The%20Kittzy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Red%20Team%20Enthusiast&descSize=17&descAlignY=56"
+    alt="The Kittzy— Software Engineer and Cybersecurity"
   />
 </p>
 
